@@ -14,7 +14,7 @@ class RemoveATest {
 	 *2. 2 chars: AB -> B - success
 	 *3. 4 chars: AABC -> BC - success
 	 *4. n chars: ABCDEFG -> BCDEFG - success
-	 *5. empty string "" -> "" -uccess
+	 *5. empty string "" -> "" -success
 	 * */
 	
 	RemoveA obj;
